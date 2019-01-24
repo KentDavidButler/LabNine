@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\GrandCircus\LabNine\LabNine\bin\Debug\LabNine.exe.config
+C:\Users\Administrator\source\repos\GrandCircus\LabNine\LabNine\bin\Debug\LabNine.exe
+C:\Users\Administrator\source\repos\GrandCircus\LabNine\LabNine\bin\Debug\LabNine.pdb
+C:\Users\Administrator\source\repos\GrandCircus\LabNine\LabNine\obj\Debug\LabNine.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GrandCircus\LabNine\LabNine\obj\Debug\LabNine.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GrandCircus\LabNine\LabNine\obj\Debug\LabNine.exe
+C:\Users\Administrator\source\repos\GrandCircus\LabNine\LabNine\obj\Debug\LabNine.pdb
